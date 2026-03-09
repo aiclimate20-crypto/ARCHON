@@ -32,7 +32,7 @@ git clone https://github.com/aiclimate20-crypto/ARCHON.git && cd ARCHON && chmod
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/ARCHON.git
+git clone https://github.com/aiclimate20-crypto/ARCHON.git
 cd ARCHON
 
 # Make all scripts executable

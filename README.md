@@ -10,7 +10,7 @@
 Open your **Firebase IDX** terminal and run:
 
 ```bash
-git clone https://github.com/yourusername/ARCHON.git && cd ARCHON && chmod +x install.sh && bash install.sh
+git clone https://github.com/aiclimate20-crypto/ARCHON.git && cd ARCHON && chmod +x install.sh && bash install.sh
 ```
 
 ---
